@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EcoPower_Logistics",
+    "\\EcoPower_Logistics\\SuperStore P3",
+    "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3",
+    "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views",
+    "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views\\Shared"
   ],
+  "SelectedNode": "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
