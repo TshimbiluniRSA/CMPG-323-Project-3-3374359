@@ -4,9 +4,10 @@
     "\\EcoPower_Logistics",
     "\\EcoPower_Logistics\\SuperStore P3",
     "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3",
+    "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Controllers",
     "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views",
     "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views\\Shared"
   ],
-  "SelectedNode": "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\Controllers\\OrdersController.cs",
   "PreviewInSolutionExplorer": false
 }
