@@ -4,6 +4,6 @@ namespace EcoPower_Logistics.Repository
 {
     public interface ICustomerRepository : IGenericRepository<Customer>
     {
-        Task<List<Customer>> GetAll();
+        new Task<List<Customer>> GetAll();
     }
 }
